@@ -15,5 +15,5 @@ The API developed in TS-Node/Express (https://github.com/aremilguzman/Technical-
 - After having the [API](https://github.com/aremilguzman/Technical-Test-API) up and running following the usage guide provided there.
 - Clone this repository.
 - Access the project folder via the terminal.
-- Use npm install for dependencies.
-- Use npm start to run the project on localhost.
+- Use `npm install` for dependencies.
+- Use `npm start` to run the project on localhost.
